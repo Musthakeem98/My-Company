@@ -50,3 +50,7 @@ npm install
 ```
 
 4. Open the `index.html` file in your preferred web browser.
+
+## Live Project Link
+
+You can view the live version of the project [here](https://musthakeem98.github.io/My-Company/).
