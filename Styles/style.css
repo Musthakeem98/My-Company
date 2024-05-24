@@ -103,6 +103,10 @@
   z-index: 10;
 }
 
+.nav-item:hover {
+  color: #0864b1;
+}
+
 .text-container {
   position: relative;
   z-index: 3;
@@ -531,6 +535,11 @@
   font-size: xx-large;
   font-weight: 700;
   margin-top: 10px;
+}
+
+#dropdown-button {
+  background-color: transparent;
+  border: none;
 }
 
 @media (max-width: 768px) {
